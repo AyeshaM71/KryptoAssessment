@@ -1,5 +1,5 @@
 # KryptoAssessment
-Create a price alert application that triggers an email when the user’s target price is achieved.
+Created a price alert application that triggers an email when the user’s target price is achieved.
 Login page is created where user enters his/her email and password.
 The email is considered to be the primary key
 Create page is made available to set alerts , where user enters the limit price of cryptocurrency and the name(id) of cryptocurrency.
